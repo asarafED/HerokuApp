@@ -14,5 +14,9 @@
   ],
   "author": "",
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+	  "ejs": "2.3.3",
+	  "express": "4.13.3"
+	}
 }
